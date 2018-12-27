@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "832548737572",
+    "firebase_url": "https://studentsocial-d41cf.firebaseio.com",
+    "project_id": "studentsocial-d41cf",
+    "storage_bucket": "studentsocial-d41cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832548737572:android:b7010c979ca27e2c",
+        "android_client_info": {
+          "package_name": "notifi.eagleteam.com.flutternotifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832548737572-dg97sgp1m9tr5i4ebi1g451f61j16v6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXg6-rXIDetnYwGgGLFZ6rVWm8YMwsqvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
